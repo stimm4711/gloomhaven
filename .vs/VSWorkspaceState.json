@@ -2,9 +2,10 @@
   "ExpandedNodes": [
     "",
     "\\images",
-    "\\images\\items",
-    "\\images\\items\\1-14"
+    "\\images\\events",
+    "\\images\\events\\base",
+    "\\images\\events\\base\\city"
   ],
-  "SelectedNode": "\\images\\items\\1-14",
+  "SelectedNode": "\\images\\events",
   "PreviewInSolutionExplorer": false
 }
