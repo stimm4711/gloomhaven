@@ -3,9 +3,8 @@
     "",
     "\\images",
     "\\images\\events",
-    "\\images\\events\\base",
-    "\\images\\events\\base\\city"
+    "\\images\\events\\base"
   ],
-  "SelectedNode": "\\images\\events",
+  "SelectedNode": "\\images\\events\\base\\rift",
   "PreviewInSolutionExplorer": false
 }
