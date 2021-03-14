@@ -1,7 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\images"
+    "\\images",
+    "\\images\\character-ability-cards",
+    "\\images\\character-ability-cards\\DR_v2"
   ],
+  "SelectedNode": "\\images\\character-ability-cards\\DR_v2",
   "PreviewInSolutionExplorer": false
 }
